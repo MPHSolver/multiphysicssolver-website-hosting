@@ -1,2 +1,2 @@
-# mphs-website-hosting
+# MPHS Website
 mphs-website-hosting
